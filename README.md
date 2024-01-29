@@ -28,6 +28,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/not-thanhtai/not-thanhtai/output/snake.svg" alt="Snake animation" />
-
-###
