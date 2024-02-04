@@ -1,4 +1,4 @@
-# <p align="center">Hello, I'm Thanh Tai Nguyen</p>
+# <p align="center">Welcome to my profile 🎊</p>
 
 ## Introduction
 
