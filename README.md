@@ -10,7 +10,7 @@ I have experience working with various programming languages and technologies, i
 
 - **Programming Languages**: Javascript, C++, C#, Python
 - **Databases**: SQL, MongoDB
-- **Web Technologies**: HTML, CSS, React, Node.js
+- **Web Technologies**: HTML, CSS, ReactJS, NodeJS
 - **Development Tools**: Git, Docker
 
 ## Projects
