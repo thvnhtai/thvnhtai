@@ -8,7 +8,7 @@ Hello! I'm Thanh Tai Nguyen, a programmer and tech enthusiast from HCMC. I'm pas
 
 I have experience working with various programming languages and technologies, including:
 
-- **Programming Languages**: Javascript, C++, C#, Python
+- **Programming Languages**: Javascript, Java, C#, Python, C++
 - **Databases**: SQL, MongoDB, Firebase
 - **Web/App Technologies**: HTML, CSS, ReactJS, NodeJS, React Native
 - **Development Tools**: Git
