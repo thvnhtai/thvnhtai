@@ -17,7 +17,7 @@ I have experience working with various programming languages and technologies, i
 
 I enjoy participating in open-source projects and sharing what I've learned. Below are some projects that I have contributed to or created:
 
-1. **Restaurant Management Desktop Application**
+1. **Restaurant Management Desktop Application (Personal Team Project)**
    - Description: This project is a desktop application developed for managing restaurant operations, including menu management, order processing, and inventory management. It is built using WPF (Windows Presentation Foundation) for the user interface and MongoDB for database management.
    - Link: [Restaurant Management](https://github.com/DoAnLapTrinhTrucQuanUIT/IT008.O13)
 
