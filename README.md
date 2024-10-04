@@ -4,30 +4,14 @@
 
 Welcome to my profile! I’m Thanh Tai Nguyen, a passionate programmer and tech enthusiast based in Ho Chi Minh City. I thrive on creativity and constantly seek to explore new horizons in information technology.
 
-## 🛠️ Experience and Skills
+## 🛠️ Skills
 
 I possess a strong background in various programming languages and technologies, including:
 
-- **Programming Languages**: 
-  - JavaScript 
-  - Java
-
-- **Databases**: 
-  - MongoDB 
-  - Firebase 
-  - MySQL
-
-- **Web/App Technologies**: 
-  - ReactJS 
-  - NodeJS 
-  - React Native
-
-- **Development Tools**: 
-  - Git
-  - Docker 
-  - Postman 
-  - Jest 
-  - Jenkins 
+- **Programming Languages**: JavaScript, Java
+- **Databases**: MongoDB, Firebase, MySQL
+- **Web/App Technologies**: ReactJS, NodeJS, React Native
+- **Development Tools**: Git, Docker, Postman, Jest, Jenkins
 
 ## 💻 Projects
 
