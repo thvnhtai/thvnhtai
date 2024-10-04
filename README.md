@@ -1,28 +1,50 @@
-# <p align="center">Hi there, I'm Thanh Tai Nguyen 👋</p>
+# <p align="center">Hello, I'm Thanh Tai Nguyen 👋</p>
 
-## Introduction
+## 🌟 Introduction
 
-Hello! I'm Thanh Tai Nguyen, a programmer and tech enthusiast from HCMC. I'm passionate about creativity and enjoy exploring new things in the field of information technology.
+Welcome to my profile! I’m Thanh Tai Nguyen, a passionate programmer and tech enthusiast based in Ho Chi Minh City. I thrive on creativity and constantly seek to explore new horizons in information technology.
 
-## Experience and Skills
+## 🛠️ Experience and Skills
 
-I have experience working with various programming languages and technologies, including:
+I possess a strong background in various programming languages and technologies, including:
 
-- **Programming Languages**: Javascript, Java, C#, Python, C++
-- **Databases**: SQL, MongoDB, Firebase
-- **Web/App Technologies**: HTML, CSS, ReactJS, NodeJS, React Native
-- **Development Tools**: Git
+- **Programming Languages**: 
+  - JavaScript 
+  - Java
 
-## Projects
+- **Databases**: 
+  - MongoDB 
+  - Firebase 
+  - MySQL
 
-I enjoy participating in open-source projects and sharing what I've learned. Below are some projects that I have contributed to or created:
+- **Web/App Technologies**: 
+  - ReactJS 
+  - NodeJS 
+  - React Native
 
-1. **Restaurant Management Desktop Application (Personal Team Project)**
-   - Description: This project is a desktop application developed for managing restaurant operations, including menu management, order processing, and inventory management. It is built using WPF (Windows Presentation Foundation) for the user interface and MongoDB for database management.
-   - Link: [Restaurant Management](https://github.com/DoAnLapTrinhTrucQuanUIT/IT008.O13)
+- **Development Tools**: 
+  - Git
+  - Docker 
+  - Postman 
+  - Jest 
+  - Jenkins 
 
-## Contact
+## 💻 Projects
 
-If you'd like to get in touch with me or learn more about my projects, feel free to reach out via:
+I enjoy collaborating on open-source projects and sharing my knowledge with the community. Here are some of the projects I have contributed to or developed:
 
-- Email: [thanhtaiwork04@gmail.com]
+### Project 1
+
+-   **Description:** Coffee Shop Management is a software solution designed to help coffee shop owners manage their daily operations efficiently. From managing inventory to processing orders, our system aims to streamline the workflow and enhance the overall customer experience.
+-   **Link:** [CoffeeShopManagement](https://github.com/FiveD-SE/CoffeeShopManagement)
+
+### Project 2
+
+-   **Description:** Enigma leverages AI technology to streamline the dropshipping process. Users can effortlessly create and list products without the need for physical inventory. Our platform enables users to profit from the price difference between the set price and the customer's purchase price, making online business easier and more profitable than ever before.
+-   **Link:** [Enigma](https://github.com/FiveD-SE/Enigma-Frontend)
+  
+## 📫 Contact
+
+I would love to connect with you! If you have any questions or would like to learn more about my work, please feel free to reach out:
+
+- **Email**: [thanhtaiwork04@gmail.com](mailto:thanhtaiwork04@gmail.com)
