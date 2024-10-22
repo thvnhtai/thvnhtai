@@ -8,10 +8,12 @@ Welcome to my profile! I’m Thanh Tai Nguyen, a passionate programmer and tech 
 
 I possess a strong background in various programming languages and technologies, including:
 
-- **Programming Languages**: JavaScript, Java
-- **Databases**: MongoDB, Firebase, MySQL
-- **Web/App Technologies**: ReactJS, NodeJS, React Native
-- **Development Tools**: Git, Docker, Postman, Jest, Jenkins
+- **Programming Languages**: JavaScript, TypeScript, Java, C#
+- **Front-end**: ReactJS, React Native, Bootstrap, Tailwind, Material UI
+- **Back-end**:  NodeJS, ExpressJS, Spring Boot, ASP.NET
+- **Databases**:  MongoDB, MySQL, Firebase
+- **Version Control**: Git, Github
+- **Tools**: Redux, Context API, Figma, Docker, Postman
 
 ## 💻 Projects
 
