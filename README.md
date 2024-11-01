@@ -4,7 +4,7 @@
 
 Welcome to my profile! I’m Thanh Tai Nguyen, a passionate programmer and tech enthusiast based in Ho Chi Minh City. I thrive on creativity and constantly seek to explore new horizons in information technology.
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="24" />&nbsp;&nbsp; <samp>[Resume](https://docs.google.com/uc?export=download&id=1GwGAdVoL07p453oUvZU4YLiCwvMPI0rO).
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="24" />&nbsp;&nbsp; <samp>[Resume](https://drive.google.com/file/d/1A6aEI8sRS2WWEa2aMMCavwRBY5INcpZ0/view?usp=sharing).
 
 
 ## 🛠️ Skills
